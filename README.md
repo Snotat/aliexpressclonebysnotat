@@ -4,7 +4,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Firstly, to get an you api key from rapidapi.com
 Search for aliexpress-datahub, subscribe to the API, and copy your key.
-The replace the key with *** in Searched.ts and Details.ts files
+Then replace the key with *** in Searched.ts and Details.ts files
+
+Then run the following commands
+
+### `npm i`
+### `npm run dev`
+
+
+// Alibaba clone by Snotat,
+## give me a star at - https://github.com/snotat
+
 
 ## Getting Started
 
